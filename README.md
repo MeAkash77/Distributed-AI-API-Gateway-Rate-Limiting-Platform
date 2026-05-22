@@ -952,7 +952,7 @@ The project includes comprehensive integration tests using Testcontainers:
 
 ```bash
 # Clone the repository
-git clone https://github.com/uppnrise/distributed-rate-limiter.git
+git clone https://github.com/MeAkash77/Distributed-AI-API-Gateway-Rate-Limiting-Platform.git
 cd distributed-rate-limiter
 
 # Install Java 21 (required)
